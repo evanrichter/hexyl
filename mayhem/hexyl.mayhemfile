@@ -1,0 +1,5 @@
+project: hexyl
+target: hexyl
+
+cmds:
+  - cmd: /hexyl @@
